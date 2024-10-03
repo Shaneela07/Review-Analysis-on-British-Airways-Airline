@@ -17,4 +17,3 @@ Understanding a customer's feelings, needs, and feedback is crucial for any busi
 * Train a machine learning model
 * Evaluate and present your findings
 
-  ** Result **
